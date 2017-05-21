@@ -1,0 +1,54 @@
+
+
+.title {
+  margin-top:25px;
+  margin-bottom:25px;
+  font-family: 'Raleway', sans-serif;
+  font-weight:bold;
+}
+
+.box {
+  background-color:#FFF;
+  margin:20px auto;
+  width:50%;
+  display:block;
+  padding: 10px;
+  border-radius: 9px;
+}
+
+.quote {
+  font-size: 44px;
+  font-family: 'Dosis', sans-serif;
+  padding: 35px 0px 0px 0px;
+  text-align: center; 
+  vertical-align: middle;
+  font-weight: 500%; 
+}
+
+.quoter {
+  font-size: 1.5em;
+  font-family: 'Dosis', sans-serif;
+  text-align: right;
+}
+
+.btn {
+  font-family: 'Dosis', sans-serif;
+  font-size: 18px;
+  color: #444;
+  background-color: white;
+  border:solid 1px #999;
+  display: inline-block;
+  margin: 5px 35px;
+  width:auto;
+  height:auto;
+  
+}
+
+.buttons {
+  text-align:center;
+  margin-top:15px;
+}
+
+.fa-twitter {
+  color:#444;
+}
