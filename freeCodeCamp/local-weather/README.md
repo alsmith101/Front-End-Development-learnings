@@ -1,3 +1,5 @@
+freeCodeCamp Intermediate Project
+
 Show the Local Weather
 
 Rule #1: Don't look at the example project's code. Figure it out for yourself.
