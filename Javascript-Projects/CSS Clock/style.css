@@ -53,4 +53,8 @@ body {
 
 .second {
   background-color: gold;
+  position:absolute;
+  top:50%;
+  left:25%;
+  width:25%;
 }
