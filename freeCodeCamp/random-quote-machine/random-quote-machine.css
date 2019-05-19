@@ -8,7 +8,7 @@
 }
 
 .box {
-  background-color:#FFF;
+  background-color:#ffffff;
   margin:20px auto;
   width:50%;
   display:block;
@@ -17,12 +17,12 @@
 }
 
 .quote {
-  font-size: 44px;
+  font-size: 46px;
   font-family: 'Dosis', sans-serif;
-  padding: 35px 0px 0px 0px;
-  text-align: center; 
+  padding: 55px 0px 0px 0px;
+  text-align: center;
   vertical-align: middle;
-  font-weight: 500%; 
+  font-weight: 500%;
 }
 
 .quoter {
@@ -41,7 +41,7 @@
   margin: 5px 35px;
   width:auto;
   height:auto;
-  
+
 }
 
 .buttons {
