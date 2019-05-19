@@ -1,0 +1,43 @@
+html {
+  font-size: 10px;
+  background: url(http://i.imgur.com/b9r5sEL.jpg) bottom center;
+  background-size: cover;
+}
+
+.keys {
+
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  min-height: 100vh;
+}
+
+kbd {
+
+  display:block;
+  color: white;
+
+}
+
+.key {
+  padding: 10px;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 2.5em;
+  text-align:center;
+  border: solid 2px black;
+  margin: 2px;
+  background: rgba(0,0,0,0.4);
+  text-shadow: 0 0 .5rem black;
+  transition: all 0.06s;
+}
+
+.sound {
+  color: yellow;
+}
+
+.playing {
+
+  transform: scale(1.1);
+  border: solid 5px yellow;
+}
